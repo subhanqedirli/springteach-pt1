@@ -1,2 +1,2 @@
 # springteach-pt1
-Homework repo
+Homework repo (but, not only for homework)
